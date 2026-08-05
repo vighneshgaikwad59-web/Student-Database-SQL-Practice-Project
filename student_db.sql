@@ -1,7 +1,4 @@
--- ============================================
--- Student Database - SQL Practice Project
--- Author: Vighnesh Anand Gaikwad
--- ============================================
+
 
 -- 1. Create and select database
 CREATE DATABASE clg;
